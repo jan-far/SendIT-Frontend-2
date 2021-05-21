@@ -1,0 +1,9 @@
+.autocomplete {
+  color: red;
+  background: yellow;
+  width: 200px;
+}
+
+.pac-container {
+  z-index: 1310 !important;
+}

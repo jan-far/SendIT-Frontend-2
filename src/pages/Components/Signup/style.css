@@ -1,0 +1,23 @@
+.PhoneInputCountry {
+  display: grid;
+  max-width: 500px;
+  height: auto;
+  z-index: 1;
+}
+
+.PhoneInputCountrySelect {
+  position: absolute;
+  align-items: center;
+}
+
+.PhoneInputInput {
+  place-self: center center;
+  border-radius: 5px;
+  padding: 16px;
+  border: none;
+  margin-bottom: 32px;
+}
+
+Error {
+  color: red;
+}
